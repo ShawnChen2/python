@@ -3,4 +3,4 @@
 import random
 
 print('\n')
-print(random.sample(['spam', 'ham', 'eggs'], k=1))
+print(random.sample(['spam', 'ham', 'eggs'], k=3))
